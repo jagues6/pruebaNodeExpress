@@ -1,0 +1,10 @@
+1. lo primero es crear el archivo package.json con el comando npm init
+2. despues creamos el archivo app.js que va ser el archivo principal del backend
+3. vamos a instalar express que es una libreria que nos permite armar el backend 
+de manera rapida pagina de instalacion https://expressjs.com/es/starter/installing.html
+y con el comando npm install express --save instalamos esta libreria
+4. instalacion de la libreria nodemon  que detecta cambios en el codigo y los actualiza
+5. instalacion de la libreria DOTENV que nos ayuda a crear variables de entorno,
+la pagina de soporte es https://www.npmjs.com/package/dotenv y el comando de 
+instalacion es npm install dotenv
+6. 
